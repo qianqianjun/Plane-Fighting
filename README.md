@@ -46,7 +46,10 @@
 ![此处输入图片的描述][1]
 
   [1]: https://github.com/qianqianjun/Plane-Fighting/raw/master/images/preview.png
+<<<<<<< HEAD
   
 ### 疑难解答
 如有需要，欢迎联系我
 高谦，1905946527@qq.com
+=======
+>>>>>>> 19e03a72cf0b3dbf7a83ee2920f849d2315c1126
