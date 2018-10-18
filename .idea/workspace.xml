@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfa48a0f-85ff-4525-a541-87efadb4a6bc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pygameTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enemy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/font.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/font/font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy1_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy2_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_down6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/enemy3_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_loading1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_loading2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_loading3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_over.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_pause_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_pause_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_restart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_resume_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_resume_pressed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_start.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_start2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/game_stop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/life.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plane1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plane2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/ufo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/bullet.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/enemy1_down.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/enemy2_down.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/enemy2_out.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/enemy3_down.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/enemy3_out.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/game_achievement.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/game_music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/game_over.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plane.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/score.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/supply.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="903318149">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="png" value="7" />
+          <entry key="py" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="7" />
+          <entry key="Python" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="6597" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="6597" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2457">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/supply.py" />
+        <option value="$PROJECT_DIR$/enemy.py" />
+        <option value="$PROJECT_DIR$/bullet.py" />
+        <option value="$PROJECT_DIR$/plane.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="500" />
+    <option name="y" value="-19" />
+    <option name="width" value="979" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pygameTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pygameTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Data/Coder/python/pygameTest/bullet.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Data\Coder\python\pygameTest" />
+      <recent name="D:\Data\Coder\python\pygameTest\music" />
+      <recent name="D:\Data\Coder\python\pygameTest\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="pygameTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfa48a0f-85ff-4525-a541-87efadb4a6bc" name="Default Changelist" comment="" />
+      <created>1539474576338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539474576338</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12483487" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32925338" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1388238150/pygame/constants.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8316">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1388238150/pygame/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1388238150/pygame/rect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="68" column="34" lean-forward="true" selection-start-line="68" selection-start-column="34" selection-end-line="68" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bomb.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ufo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/game_over.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/game_loading1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/game_start2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/game_start.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/supply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bullet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="69" column="37" lean-forward="true" selection-start-line="69" selection-start-column="37" selection-end-line="69" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2457">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="27" lean-forward="true" selection-start-line="1" selection-start-column="27" selection-end-line="1" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
