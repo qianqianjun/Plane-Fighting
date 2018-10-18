@@ -1,75 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfa48a0f-85ff-4525-a541-87efadb4a6bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pygameTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bullet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/font.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/font/font.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bomb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy1_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy1_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy1_down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy1_down4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy2_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy2_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy2_down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy2_down4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy2_hit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_down1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_down4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_down5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_down6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_hit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_n1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/enemy3_n2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_loading1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_loading2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_loading3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_over.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_pause_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_pause_pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_restart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_resume_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_resume_pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_start.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_start2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/game_stop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/icon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/life.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plane1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plane2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/plane_blowup_n4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ufo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/bullet.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/enemy1_down.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/enemy2_down.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/enemy2_out.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/enemy3_down.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/enemy3_out.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/game_achievement.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/game_music.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/game_over.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plane.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/score.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/supply.py" afterDir="false" />
-    </list>
+    <list default="true" id="dfa48a0f-85ff-4525-a541-87efadb4a6bc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="500" />
     <option name="y" value="-19" />
     <option name="width" value="979" />
@@ -253,12 +185,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12483487" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12483487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
