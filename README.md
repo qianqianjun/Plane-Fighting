@@ -45,4 +45,4 @@
 ### 运行截图：
 ![此处输入图片的描述][1]
 
-  [1]: https://github.com/qianqianjun/Plane-Fighting/raw/master/images/m.png
+  [1]: https://github.com/qianqianjun/Plane-Fighting/raw/master/images/preview.png
