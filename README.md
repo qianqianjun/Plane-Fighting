@@ -47,6 +47,3 @@
   ![]( https://github.com/qianqianjun/Plane-Fighting/raw/master/images/preview.png)
   
 ### 疑难解答
-
-如有需要，欢迎联系我
-高谦，1905946527@qq.com
